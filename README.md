@@ -379,7 +379,7 @@ curl --location 'http://localhost:8080/api/send?message=Hello%20there'
 2023-06-05T15:30:22.296+07:00  INFO 20196 --- [pool-2-thread-3] c.p.t.endpoint.TCPMessageEndpoint        : Send message to client
 ```
 
-## Refereces
+## References
 - [What is Transmission Control Protocol TCP/IP?](https://www.fortinet.com/resources/cyberglossary/tcp-ip)
 - [What Is TCP (Transmission Control Protocol)?](https://www.spiceworks.com/tech/networking/articles/what-is-tcp/)
 - [Spring TCP and UDP Support](https://docs.spring.io/spring-integration/reference/html/ip.html)
